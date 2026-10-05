@@ -1,0 +1,10 @@
+# Fichiers objets C++
+*.o
+
+# Executables
+application_voiture
+*.exe
+*.out
+
+# Fichiers de compilation
+build/
